@@ -1,1 +1,2 @@
 # Aws-VPC-Repo
+I developed a project named "SecureWebHost" implementing website hosting using Amazon VPC and Route 53. The architecture includes two subnets – a public subnet for website hosting through an Application Load Balancer (ALB) within an Auto Scaling Group (ASG), and a private subnet for the database. This setup ensures a secure and scalable infrastructure, with Route 53 managing the DNS for seamless website access.
